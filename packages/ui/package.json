@@ -1,0 +1,16 @@
+{
+  "name": "@devpleno/ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tulio Faria",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.2.0"
+  }
+}

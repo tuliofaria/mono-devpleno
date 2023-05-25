@@ -1,0 +1,15 @@
+{
+  "name": "devpleno",
+  "private": true,
+  "scripts": {
+    "dev": "turbo dev --parallel",
+    "build": "turbo build --parallel"
+  },
+  "workspaces": [
+    "app/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "turbo": "^1.9.3"
+  }
+}
